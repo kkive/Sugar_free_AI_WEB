@@ -25,5 +25,8 @@ streamlit run app.py
 </div>
 
 断开shell之后接口和web无法运行,使用linux自带的nohup
+
+```bash
 nohup flask run --host=0.0.0.0 >/dev/null &
 nohup streamlit run app.py > /dev/null &
+```
