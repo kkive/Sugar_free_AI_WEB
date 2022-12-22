@@ -12,7 +12,8 @@ def hello_world():
     import os
     import openai
     account = request.args.get("ask")
-    openai.api_key="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"
+#     openai.api_key="你的OpenAI-API"
+    openai.api_key=""
     response = openai.Completion.create(
         model="text-davinci-003",
         prompt=account,
