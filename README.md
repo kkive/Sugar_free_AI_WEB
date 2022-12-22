@@ -1,7 +1,7 @@
 # Sugar_free_AI_WEB
 无糖-人工智能创作平台
 <summary>轻松使用</summary>
-```python
+```bash
 1.git clone https://github.com/kkive/Sugar_free_AI_WEB.git
 2. cd Sugar_free_AI_WEB
 3.将您的API加入app.py
