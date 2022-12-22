@@ -20,6 +20,9 @@ streamlit run app.py
 
 ```
 
+<div align="center">
+        ![1671676974754](https://user-images.githubusercontent.com/51246778/209045072-01e4a2a1-3daf-477f-86a6-daa8998eb108.jpg)
+</div>
 
 断开shell之后接口和web无法运行,使用linux自带的nohup
 nohup flask run --host=0.0.0.0 >/dev/null &
